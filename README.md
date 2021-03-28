@@ -1,4 +1,4 @@
-# Deeplearning in Python with Keras 
+# Intro to Deeplearning in Python with Keras 
 
  - Artifical Intelligence vs Machine Learning vs Deep Learning 
  - Deep Learning with Artificial Neural Networks 
