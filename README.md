@@ -7,7 +7,7 @@
    - Recurrent Neural Networks
  - Applications of CNN and RNN
    - Vision (Examples MNIST and fashion MNIST)
-   - NLP (IDMB movie reivew)
+   - NLP (IMDB movie reivew)
    - Time Series (Airline Passengers Demand forecast)
 
 You can execute the example notebooks in Binder Hub ()
