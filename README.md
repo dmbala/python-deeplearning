@@ -10,5 +10,4 @@
    - NLP (IMDB movie reivew)
    - Time Series (Airline Passengers Demand forecast)
 
-You can execute the example notebooks in Binder Hub ()
-
+You can execute the example notebooks in Binder Hub (https://github.com/dmbala/binder-PyDL) 
